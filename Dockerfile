@@ -1,4 +1,4 @@
-FROM hicloudcmp/alpine-base:3.6
+FROM cmp1234/alpine-base:3.6
 
 ENV GOPATH /go
 ENV PATH $PATH:$GOPATH/bin
